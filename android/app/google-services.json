@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "867526606706",
+    "project_id": "eecki-45ee1",
+    "storage_bucket": "eecki-45ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867526606706:android:d57ec298742f5c5bdb27eb",
+        "android_client_info": {
+          "package_name": "com.example.eecki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867526606706-kn2eujpbcg2ul4in63acukn3ud2opuia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eecki",
+            "certificate_hash": "bbab15d8b3f19a9cdfc34e079f2c886ca28ec270"
+          }
+        },
+        {
+          "client_id": "867526606706-dg34lopf5ceggir02jbr0gs5d2gge85k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLgQYdrBoKf5QXj8RFrZxkzHhTFeuyxgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867526606706-dg34lopf5ceggir02jbr0gs5d2gge85k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
